@@ -26,7 +26,7 @@ You need to have Node.js and npm installed on your local machine. You can downlo
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/adsrivastav/-UI-Craft-Sports-Day/tree/main
 
 
 
